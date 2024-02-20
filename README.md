@@ -1,16 +1,39 @@
-### Hi there 👋
+# Welcome to my GitHub house
 
-<!--
-**6Xian9/6Xian9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack Developer | Blockchain Developer | Smart Contract Auditor
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- React
+- TypeScript
+
+### Backend
+- PHP
+- Laravel
+- Node.js
+- Express
+- Django
+
+### Blockchain
+- Solana
+- Web3.js
+- Solidity
+- Ether.js
+- Bitcoin
+
+### Audit
+- Golang
+- Rust
+- Smart Contract
+- Ethereum
+- DamlBefi
+
+## Contribution Statistics
+!GitHub stats
+
+## Most Used Languages
+!Top Langs
